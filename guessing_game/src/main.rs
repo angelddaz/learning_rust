@@ -1,4 +1,4 @@
-use std::io
+use std::io;
 
 fn main() {
     println!("Guess the number!");
@@ -6,7 +6,7 @@ fn main() {
     println!("Please input your guess.");
     let mut guess = String::new(); // mut means mutable
 
-    io::stdin().read_line(&mut guess)
+    io::stdin().read_line(&mut guess) // the & means that the parameter is a reference
         .expect("Failed to read line");
 
     println!("You guessed: {}", guess);
