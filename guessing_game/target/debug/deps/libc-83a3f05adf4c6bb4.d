@@ -1,0 +1,13 @@
+C:\Users\angel\Documents\GitHub\learning_rust\guessing_game\target\debug\deps\liblibc-83a3f05adf4c6bb4.rlib: C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\lib.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\macros.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\dox.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\windows.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\redox\mod.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\redox\net.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\cloudabi\mod.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\fuchsia\mod.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\unix\mod.rs
+
+C:\Users\angel\Documents\GitHub\learning_rust\guessing_game\target\debug\deps\libc-83a3f05adf4c6bb4.d: C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\lib.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\macros.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\dox.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\windows.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\redox\mod.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\redox\net.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\cloudabi\mod.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\fuchsia\mod.rs C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\unix\mod.rs
+
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\lib.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\macros.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\dox.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\windows.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\redox\mod.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\redox\net.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\cloudabi\mod.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\fuchsia\mod.rs:
+C:\Users\angel\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.43\src\unix\mod.rs:
